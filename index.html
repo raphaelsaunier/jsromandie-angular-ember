@@ -69,7 +69,7 @@
       center: true,
 
       theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
-      transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
+      transition: Reveal.getQueryHash().transition || 'linear', // default/cube/page/concave/zoom/linear/fade/none
 
       // Optional libraries used to extend on reveal.js
       dependencies: [
@@ -85,6 +85,9 @@
       { src: 'js/loadtemplates.js', condition: function() { return !!document.querySelector( '[data-html]' ); } }
       ]
     });
+    Reveal.addEventListener( 'slidechanged', function( event ) {
+     console.log(event);
+    } );
   });
   </script>
 
