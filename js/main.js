@@ -7,6 +7,20 @@ var appendSlides = function (data) {
   var mdtempl = Handlebars.compile(mdtemplate);
   var htmltempl = Handlebars.compile(htmltemplate);
   var verticaltempl = Handlebars.compile(verticaltemplate);
+
+  /*
+   * Returns the template based on the file extension
+   */
+  var template = function(slide){
+    var templ;
+    if (slide.indexOf('.html') !== -1) {
+      templ = htmltempl;
+    } else if (slide.indexOf('.md') !== -1) {
+      templ = mdtempl;
+    }
+    return templ;
+  }
+
   slides.forEach(function (slide, index) {
     var templ;
     if (Object.prototype.toString.call(slide) === '[object Array]') {
@@ -14,21 +28,11 @@ var appendSlides = function (data) {
       $('.slides').append(verticaltempl({'ident': verticalindex}));
 
       slide.forEach(function (slide) {
-        if (slide.indexOf('.html') !== -1) {
-          templ = htmltempl;
-        } else if (slide.indexOf('.md') !== -1) {
-          templ = mdtempl;
-        }
-        $('.vertical-' + index).append(templ({'file': slide}));
+        $('.vertical-' + index).append(template(slide)({'file': slide}));
       });
 
     } else {
-      if (slide.indexOf('.html') !== -1) {
-        templ = htmltempl;
-      } else if (slide.indexOf('.md') !== -1) {
-        templ = mdtempl;
-      }
-      $('.slides').append(templ({'file': slide}));
+      $('.slides').append(template(slide)({'file': slide}));
     }
   });
 };
