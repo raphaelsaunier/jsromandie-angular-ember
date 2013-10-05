@@ -42,11 +42,17 @@
   <script src="js/main.js"></script>
 
   <script id="slide-template-markdown" type="x-handlebars-template">
-    <section data-markdown="slides/{{file}}"></section>
+    <section data-markdown="slides/{{file}}" 
+      data-background-image="{{bgImage}}"
+      data-background-color="{{bgColor}}"
+      data-background-size="contain"></section>
   </script> 
 
   <script id="slide-template" type="x-handlebars-template">
-    <section data-html="slides/{{file}}"></section>
+    <section data-html="slides/{{file}}"
+      data-background-image="{{bgImage}}"
+      data-background-color="{{bgColor}}"
+      data-background-size="contain"></section>
   </script> 
 
   <script id="vertical-template" type="x-handlebars-template">
@@ -68,7 +74,7 @@
       history: true,
       center: true,
 
-      theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+      theme: Reveal.getQueryHash().theme || 'beige', // available themes are in /css/theme
       transition: Reveal.getQueryHash().transition || 'linear', // default/cube/page/concave/zoom/linear/fade/none
 
       // Optional libraries used to extend on reveal.js
@@ -85,9 +91,7 @@
       { src: 'js/loadtemplates.js', condition: function() { return !!document.querySelector( '[data-html]' ); } }
       ]
     });
-    Reveal.addEventListener( 'slidechanged', function( event ) {
-     console.log(event);
-    } );
+
   });
   </script>
 
