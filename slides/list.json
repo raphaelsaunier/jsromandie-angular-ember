@@ -1,13 +1,15 @@
 [
   "index.md",
   [
-    "agenda.md",
-    "what-this-presentation-is-and-isnt.md"
+    "agenda.md"
   ],
   [
     "who-are-we.md",
     "guillaume-bisch.md",
     "raphael-saunier.md"
+  ],
+  [
+    "what-this-presentation-is-and-isnt.md"
   ],
   [
     "history-ember.md"
