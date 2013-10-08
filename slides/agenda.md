@@ -6,7 +6,7 @@ Une petite intro sur les deux frameworks
 
 ---
 
-Un assortiment d'examples sur les fonctions principales
+Un assortiment d'exemples sur les fonctions principales
 
 ---
 
