@@ -1,5 +1,13 @@
-# Angular.js & Ember.js
+# Angular.js <em class="amp">&</em> Ember.js
 
-From the terminal, pop in:
+## Introduction & Comparatif
 
-  ```yo reveal:slide "Slide Title"```
+* * * *
+
+<span class="light">Guillaume Bisch &bull; Raphael Saunier</span>
+
+* * * *
+
+*[JS Romandie](http://www.meetup.com/jsromandie/events/139404832/) &bull; Bugbuster, Lausanne &bull; 11 octobre 2013*
+
+
