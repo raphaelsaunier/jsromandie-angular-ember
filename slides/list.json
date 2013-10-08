@@ -1,17 +1,22 @@
 [
-  "index.md",
-  [
-    "agenda.md"
-  ],
-  [
-    "who-are-we.md",
-    "guillaume-bisch.md",
-    "raphael-saunier.md"
-  ],
-  [
-    "what-this-presentation-is-and-isnt.md"
-  ],
-  [
-    "history-ember.md"
-  ]
+    "index.md",
+    [
+        "agenda.md"
+    ],
+    [
+        "who-are-we.md",
+        "guillaume-bisch.md",
+        "raphael-saunier.md"
+    ],
+    [
+        "what-this-presentation-is-and-isnt.md"
+    ],
+    [
+      "creating-a-basic-application.md",
+      "creating-a-basic-application-angular.md",
+      "creating-a-basic-application-ember.md"
+    ],
+    [
+        "history-ember.md"
+    ]
 ]

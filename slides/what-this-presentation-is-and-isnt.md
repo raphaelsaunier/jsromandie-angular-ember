@@ -28,7 +28,7 @@
 
 ---
 
-### 1) Pas de prise de position radicale
+### 1) Prises de position radicale
 
 - Les deux frameworks sont excellents
 - Nous ne sommes des **utilisateurs** et pas des **contributeurs**
@@ -40,7 +40,7 @@
 
 ---
 
-### 2) Pas de présentation approfondie
+### 2) Présentation approfondie
 
 - Les deux frameworks sont des usines à gaz
 - On pourrait faire des présentations entières sur chacun des composants internes
@@ -52,13 +52,14 @@
     - Handlebars
     - Run loop
     - RSVP / promesses
+    - Architecture en général
 
   Ref: http://blog.safaribooksonline.com/2013/09/25/ember-js-a-la-carte/
 </aside>
 
 ---
 
-### 3) Pas de “cage match”
+### 3) “Cage match”
 
 <iframe src="//player.vimeo.com/video/68215606" width="700" height="481" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
