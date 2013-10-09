@@ -53,6 +53,8 @@
     - Run loop
     - RSVP / promesses
     - Architecture en général
+    - Performance
+    - Optimisation SEO
 
   Ref: http://blog.safaribooksonline.com/2013/09/25/ember-js-a-la-carte/
 </aside>
