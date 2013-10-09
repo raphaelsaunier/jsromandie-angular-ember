@@ -1,4 +1,21 @@
-<img src="http://www.imgbase.info/images/safe-wallpapers/animals/cat/cat_with_sunglasses_19930.jpg" height="500"/>
+## La même chose avec Ember
 
-##  Let's get down to business!
+---
 
+## Trois dépendances
+
+- jQuery
+- Handlebars
+- Ember.js
+
+---
+
+## Initialiser l'application
+
+```js
+window.App = Ember.Application.create();
+```
+
+---
+
+<iframe src="http://emberjs.jsbin.com/OZaSOro/latest/embed" frameborder="0" height="700" width="960"></iframe>
