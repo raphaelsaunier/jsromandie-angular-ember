@@ -1,10 +1,42 @@
 ##  History for AngularJS
 
-- Open-source framework developed and maintained by Google since October 2010.
-- First time use in production in Google Adwords
+---
 
+**2009**
+
+Developed by Miško Hevery and Adam Abrons for a JSON storage service
+
+---
+
+**October 2010**
+
+First public release 0.9.0. Developed and maintained by Google ever since
 
 <aside data-markdown class="notes">
-    Put your speaker notes here.
-    You can see them pressing 's'.
+source: http://en.wikipedia.org/wiki/AngularJS
+
+Abrons left the project, but Hevery, who works at Google, continues to develop and maintain the library with fellow Google employees Igor Minár and Vojta Jína.
 </aside>
+
+---
+
+**June 2012**
+
+Version 1.0.0 reached
+
+[DoubleClick](http://blog.angularjs.org/2012/06/doubleclick-super-powered-by-angularjs.html) is first Google product to use AngularJS. This felt like a validation of the tool.
+
+---
+
+**August 2012**
+
+<img src="assets/01-history/angularjs-youtube-ps3.png" alt="" height="500"/>
+
+[YourTube for PS3](http://blog.angularjs.org/2012/08/your-excuse-to-buy-playstation.html) was built using AngularJS
+
+---
+
+**Since September 2013**
+
+1.2.0 is in release candidate status
+
