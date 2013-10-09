@@ -8,10 +8,13 @@
 - Handlebars
 - Ember.js
 
+* * *
+
+**Starter kit**: https://github.com/emberjs/starter-kit/archive/v1.0.0.zip
+
 ---
 
-## Le Hello World de rigueur
-
+## Mandatory Hello World example
 
 App initialiser:
 

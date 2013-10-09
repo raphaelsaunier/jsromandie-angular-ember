@@ -46,6 +46,8 @@
 
 <aside data-markdown class="notes">
   Raph: Dans le cas d'Ember, on pourrait donner des présentations d'une heure sur:
+    - Auth
+    - Tests
     - Components
     - Ember Data
     - Handlebars
@@ -54,6 +56,7 @@
     - Architecture en général
     - Performance
     - Optimisation SEO
+
 
   Ref: http://blog.safaribooksonline.com/2013/09/25/ember-js-a-la-carte/
 </aside>
