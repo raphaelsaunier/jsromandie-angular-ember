@@ -114,6 +114,24 @@
     // Append ordered slides
     appendSlides(data);
 
+    /*
+     * Iframes loaded in hidden slides crash the browser for some odd reason.
+     * This is a simple workaround.
+     */ 
+    Reveal.addEventListener( 'ready', function( event ) {
+      $('.slides iframe').each(function(){
+        var iframe = $(this);
+        if(iframe.data('src')){
+          var showVid = $('<a />', {text:"Load JSBin", href:"#"}).one('click', function(e){
+            iframe.attr('src', iframe.data('src'));
+            $(this).remove();
+            e.preventDefault();
+          });
+          iframe.before(showVid);
+        }
+      })
+    } );
+
     // Configure Reveal
     // Full list of configuration options available here:
     // https://github.com/hakimel/reveal.js#configuration

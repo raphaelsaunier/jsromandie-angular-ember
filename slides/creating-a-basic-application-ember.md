@@ -10,11 +10,15 @@
 
 ---
 
-## Initialiser l'application
+## Le Hello World de rigueur
+
+Initialiser l'application:
 
 ```js
 window.App = Ember.Application.create();
 ```
+
+Template Handlebars:
 
 ```handlebars
 <h1>
@@ -25,12 +29,11 @@ window.App = Ember.Application.create();
 
 ---
 
-<iframe src="http://emberjs.jsbin.com/OZaSOro/latest/embed" frameborder="0" height="700" width="960"></iframe>
+<iframe data-src="http://emberjs.jsbin.com/OZaSOro/latest/embed" frameborder="0" height="700" width="960"></iframe>
 
 ---
 
 ## Ce qui s'est passé dans les coulisses
-
 
 ---
 
@@ -51,3 +54,11 @@ Le gentil hamster a également créé pour nous une route, un contrôleur et une
 ---
 
 La valeur `name` a été crée dans le contrôleur de l'application
+
+---
+
+<iframe data-src="http://emberjs.jsbin.com/iMowUbE/2/embed" frameborder="0" height="700" width="960"></iframe>
+
+---
+
+Test
