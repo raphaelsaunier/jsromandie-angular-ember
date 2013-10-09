@@ -2,23 +2,23 @@
 
 ---
 
-Testing *used* to be difficult in Ember
+Testing *used* to be slightly tricky in Ember
 
 
 ---
 
 ### Built-in helpers
 
-- visit(url)
-- find(selector, context)
-- fillIn(input_selector, value)
-- click(selector)
-- keyEvent(selector, type, keyCode)
-- wait()
+- `visit(url)`
+- `find(selector, context)`
+- `fillIn(input_selector, value)`
+- `click(selector)`
+- `keyEvent(selector, type, keyCode)`
+- `wait()`
 
 ---
 
-### The elegance of promises
+### The elegance of chaining & promises
 ```js
 test("creating a post displays the new post", function() {
   visit("/posts/new")
