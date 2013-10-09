@@ -1,6 +1,8 @@
-##  History-ember
+##  History for AngularJS
 
-This is a new Markdown slide
+- Open-source framework developed and maintained by Google since October 2010.
+- First time use in production in Google Adwords
+
 
 <aside data-markdown class="notes">
     Put your speaker notes here.
