@@ -8,11 +8,15 @@
 - Handlebars
 - Ember.js
 
+* * *
+
+**Starter kit**: https://github.com/emberjs/starter-kit/archive/v1.0.0.zip
+
 ---
 
 ## Le Hello World de rigueur
 
-Initialiser l'application:
+Initialisation de l'application:
 
 ```js
 window.App = Ember.Application.create();
@@ -41,7 +45,11 @@ L'élément `body` a été défini comme `rootElement` de l'application
 
 ---
 
-Le premier tag `<script type="text/handlebars">` est devenu le template de l'application
+Le premier tag 
+
+`<script type="text/handlebars">` 
+
+est devenu le template de l'application
 
 ---
 
