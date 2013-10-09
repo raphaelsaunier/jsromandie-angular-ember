@@ -12,12 +12,12 @@
         "00-index/what-this-presentation-is-and-isnt.md"
     ],
     [
-        "01-history/history-angular.md",
+        "01-history/history-angularjs.md",
         "01-history/history-ember.md"
     ],
     [
       "03-first-app/creating-a-basic-application.md",
-      "03-first-app/creating-a-basic-application-angular.md",
+      "03-first-app/creating-a-basic-application-angularjs.md",
       "03-first-app/creating-a-basic-application-ember.md"
     ]
 ]

@@ -1,6 +1,6 @@
 # Angular.js <em class="amp">&</em> Ember.js
 
-## Introduction & Comparatif
+## Introduction & Compairaison
 
 * * *
 
@@ -9,7 +9,7 @@
 * * *
 
 *[JS Romandie](http://www.meetup.com/jsromandie/events/139404832/)
-&middot; 11 octobre 2013*
+&middot; October 10th  2013*
 &middot; Bugbuster, Lausanne
 
 
