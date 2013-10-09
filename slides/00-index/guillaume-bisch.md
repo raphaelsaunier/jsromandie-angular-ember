@@ -4,7 +4,7 @@
 
 - Freelance IT Engineer for 7 years
 - Strong ITIL/ITSM addiction
-- Using AngularJS since RC1 (Jan 2012)
+- Using AngularJS since 1.0.0.rc1 (Jan 2012)
 
 * * *
 
