@@ -1,22 +1,37 @@
 <img src="http://1funny.com/wp-content/uploads/2011/02/cat-reading-paper.jpg" alt="" height="500"/>
 
-##  Au programme ce soir!
+##  Tonight!
 
 ---
 
 <img src="http://netdna.kittentoob.com/wp-content/uploads/2013/05/Curious-Cat-575x431.jpg" height="500" />
 
-Une petite intro sur les deux frameworks
+A small introduction of both frameworks
 
 ---
 
-Un assortiment d'exemples sur les fonctions principales
+Some samples of their main features
 
 ---
 
-Des conseils pour bien débuter
+Some advices to get started
 
 ---
 
-Une séance de discussion avec vos questions
+At the end discussion and questions.
 
+---
+
+## Plan
+
+1. History
+2. Concepts
+3. Creating a simple app
+4. Adding tests
+5. Templates
+6. Web Components
+7. URLs and Application Architecture
+8. Exchanging data
+9. Real comparison: performances
+10. Tools
+11. Resources to get started
