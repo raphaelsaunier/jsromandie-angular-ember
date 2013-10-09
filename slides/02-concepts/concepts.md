@@ -1,16 +1,21 @@
-## Concepts shared by AngularJS and Ember
+## Concepts for both
 
-- **single page application** (new name for Rich Client Application)
+- **single page application**  
+  a new name for rich interface application
 - Clients Side Templates
-- MVC
+- MVC as in *Model View Controller*
 - Data binding
 
-AngularJS only:
+---
+
+## AngularJS only:
 
 - Dependency Injection
 - Directives
 - Filters
 
-Ember only: 
+---
+
+## Ember only: 
 
 - …
