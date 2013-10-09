@@ -4,7 +4,7 @@
 
 ---
 
-<img src="http://netdna.kittentoob.com/wp-content/uploads/2013/05/Curious-Cat-575x431.jpg" height="500" />
+<!--<img src="http://netdna.kittentoob.com/wp-content/uploads/2013/05/Curious-Cat-575x431.jpg" height="500" />-->
 
 A small introduction of both frameworks
 
@@ -14,11 +14,11 @@ Some samples of their main features
 
 ---
 
-Some advices to get started
+Some advice to get started
 
 ---
 
-At the end discussion and questions.
+At the end discussion and questions
 
 ---
 

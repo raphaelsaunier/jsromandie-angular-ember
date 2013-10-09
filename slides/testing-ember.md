@@ -1,4 +1,4 @@
-## Testing example
+## Testing with QUnit
 
 ---
 
