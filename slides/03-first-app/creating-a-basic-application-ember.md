@@ -1,8 +1,8 @@
-## La même chose avec Ember
+## Now the same thing with Ember
 
 ---
 
-## Trois dépendances
+## Three dependencies
 
 - jQuery
 - Handlebars
@@ -14,15 +14,15 @@
 
 ---
 
-## Le Hello World de rigueur
+## Mandatory Hello World example
 
-Initialisation de l'application:
+App initialiser:
 
 ```js
 window.App = Ember.Application.create();
 ```
 
-Template Handlebars:
+Handlebars template:
 
 ```handlebars
 <h1>
@@ -37,23 +37,19 @@ Template Handlebars:
 
 ---
 
-## Ce qui s'est passé dans les coulisses
+## What happened behind the scenes
 
 ---
 
-L'élément `body` a été défini comme `rootElement` de l'application
+The `body` element was defined as the `rootElement` of the application
 
 ---
 
-Le premier tag 
-
-`<script type="text/handlebars">` 
-
-est devenu le template de l'application
+The first `<script type="text/handlebars">` tag became the application template
 
 ---
 
-Le gentil hamster a également créé pour nous une route, un contrôleur et une vue:
+The friendly hamster also automatically generated a route, a controller and a view for us:
 
 - `App.ApplicationRoute`
 - `App.ApplicationController`
@@ -61,12 +57,8 @@ Le gentil hamster a également créé pour nous une route, un contrôleur et une
 
 ---
 
-La valeur `name` a été crée dans le contrôleur de l'application
+The `name` value was created in the application controller
 
 ---
 
 <iframe data-src="http://emberjs.jsbin.com/iMowUbE/2/embed" frameborder="0" height="700" width="960"></iframe>
-
----
-
-Test

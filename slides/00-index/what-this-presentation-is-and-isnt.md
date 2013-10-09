@@ -4,34 +4,33 @@
 
 ---
 
-## Qui a déjà essayé…
+## Who has already used
 
-1. Les deux?
-2. Angular?
-3. Ember?
-4. Aucun de ces deux frameworks?
-
----
-
-##  À quoi vous pouvez vous attendre
+1. AngularJS?
+2. Ember.js?
+3. Both?
+4. None of them?
 
 ---
 
-- Intro pour ceux qui ne connaîtraient pas encore un des deux outils
-- Comparaison constructive
-- Des conseils pratiques
-- Un petit peu de déconne quand même
+## What you can expect from this presentation
 
 ---
 
-## Ce que vous ne verrez pas ce soir…
+- Intro and history for those who are not familiar with these tools
+- Constructive comparisons and practical advice
+- A bit of humour and more pictures of cats
 
 ---
 
-### 1) Prises de position radicale
+## What you won't see tonight
 
-- Les deux frameworks sont excellents
-- Nous ne sommes des **utilisateurs** et pas des **contributeurs**
+---
+
+### 1) No Radical Opinions
+
+- Both frameworks are really good
+- We're **users** and not **contributors** to the frameworks
 
 <aside data-markdown class="notes">
   Raph: Pas de prise de position, contrairement au débats sur les tabulations vs. les espaces
@@ -40,16 +39,16 @@
 
 ---
 
-### 2) Présentation approfondie
+### 2) No in-depth presentation
 
-- Les deux frameworks sont des usines à gaz
-- On pourrait faire des présentations entières sur chacun des composants internes
+- Both frameworks are fairly extensive
+- We could do entire presentations on individual components
 
 <aside data-markdown class="notes">
   Raph: Dans le cas d'Ember, on pourrait donner des présentations d'une heure sur:
     - Auth
     - Tests
-    - Composants
+    - Components
     - Ember Data
     - Handlebars
     - Run loop

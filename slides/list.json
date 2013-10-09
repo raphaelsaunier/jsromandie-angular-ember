@@ -1,22 +1,29 @@
 [
-    "index.md",
+    "00-index/index.md",
     [
-        "agenda.md"
+        "00-index/agenda.md"
     ],
     [
-        "who-are-we.md",
-        "guillaume-bisch.md",
-        "raphael-saunier.md"
+        "00-index/who-are-we.md",
+        "00-index/guillaume-bisch.md",
+        "00-index/raphael-saunier.md"
     ],
     [
-        "what-this-presentation-is-and-isnt.md"
+        "00-index/what-this-presentation-is-and-isnt.md"
     ],
     [
-      "creating-a-basic-application.md",
-      "creating-a-basic-application-angular.md",
-      "creating-a-basic-application-ember.md"
+        "01-history/history-angularjs.md",
+        "01-history/history-ember.md"
     ],
     [
-        "history-ember.md"
+        "02-concepts/concepts.md"
+    ],
+    [
+        "03-first-app/creating-a-basic-application.md",
+        "03-first-app/creating-a-basic-application-angularjs.md",
+        "03-first-app/creating-a-basic-application-ember.md"
+    ],
+    [
+        "11-ressouces/ressources-angularjs.md"
     ]
 ]
