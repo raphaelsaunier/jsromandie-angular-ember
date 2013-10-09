@@ -24,7 +24,6 @@
 # Testing
 
 
-
 # Communication
 
 * usage of ng-ressource
@@ -35,6 +34,11 @@
 
 * Modules
 * Advices : re-organize with size
+
+# Performances
+
+* code size
+* at run time
 
 # Tools
 
