@@ -4,6 +4,7 @@
   "dependencies": {
     "reveal.js": "git@github.com:hakimel/reveal.js.git#master",
     "handlebars": "~1.0.0",
-    "jquery": "~1.10"
+    "jquery": "~1.10",
+    "highlight.js": "~7.3.0"
   }
 }
