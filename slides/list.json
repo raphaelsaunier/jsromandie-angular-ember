@@ -4,6 +4,9 @@
     "00-index/agenda.md"
   ],
   [
+    "00-index/plan.md"
+  ],
+  [
     "00-index/guillaume-bisch.md",
     "00-index/raphael-saunier.md"
   ],
@@ -36,6 +39,7 @@
     "05-templates/templates-ember.md"
   ],
   [
+    "06-components/components.md",  
     "06-components/angularjs-01-filters.md",
     "06-components/angularjs-02-filters-collections.md",
     "06-components/angularjs-03-directives.md",
@@ -43,6 +47,7 @@
     "06-components/components-ember.md"
   ],
   [
+    "07-urls-and-architecture/urls.md",
     "07-urls-and-architecture/modules-angularjs.md",
     "07-urls-and-architecture/urls-angularjs.md",
     "07-urls-and-architecture/urls-ember.md"
@@ -56,10 +61,12 @@
     "09-comparison/performances.md"
   ],
   [
+    "10-tools/tools.md",
     "10-tools/tools-angularjs.md",
     "10-tools/tools-ember.md"
   ],
   [
+    "11-resources/resources.md",
     "11-resources/resources-angularjs.md",
     "11-resources/resources-ember.md"
   ],

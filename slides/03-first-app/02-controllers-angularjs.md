@@ -1,6 +1,6 @@
 ## Controllers
 
-<iframe data-src="http://jsbin.com/uhiRociY/4/edit" frameborder="0" height="700" width="960"></iframe>
+<iframe data-src="http://jsbin.com/uhiRociY/4/edit?html,output" data-alt="Load TodoController" frameborder="0" height="700" width="960"></iframe>
 
 ---
 

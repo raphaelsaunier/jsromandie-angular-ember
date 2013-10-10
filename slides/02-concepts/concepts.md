@@ -1,6 +1,6 @@
 <img src="assets/02-concepts/Professor_Cat.jpg" />
 
-## Concepts
+## 1. Concepts
 
 ---
 

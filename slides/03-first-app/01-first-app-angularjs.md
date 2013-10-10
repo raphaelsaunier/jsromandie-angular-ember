@@ -17,7 +17,7 @@ but AngularJS will recon jQuery if available
 
 ## Hello World
 
-<iframe data-src="http://jsbin.com/eXujoRe/3/edit?html,output" frameborder="0" height="700" width="960"></iframe>
+<iframe data-src="http://jsbin.com/eXujoRe/3/edit?html,output" data-alt="Load Hello World" frameborder="0" height="700" width="960"></iframe>
 
 <aside data-markdown class="notes">
 source: http://www.angularjs.org/
