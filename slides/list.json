@@ -14,6 +14,7 @@
     "02-concepts/concepts.md"
   ],
   [
+    "01-history/history.md",
     "01-history/history-angularjs.md",
     "01-history/history-ember.md"
   ],
@@ -25,10 +26,13 @@
     "03-first-app/controllers-ember.md"
   ],
   [
+    "04-testing/testing.md",
     "04-testing/testing-angularjs.md",
     "04-testing/testing-ember.md"
   ],
   [
+    "05-templates/templates.md",
+    "05-templates/templates-angularjs.md",
     "05-templates/templates-ember.md"
   ],
   [
@@ -43,6 +47,8 @@
     "07-urls-and-architecture/urls-ember.md"
   ],
   [
+    "08-exchanging-data/data.md",
+    "08-exchanging-data/data-angularjs.md",
     "08-exchanging-data/data-ember.md"
   ],
   [

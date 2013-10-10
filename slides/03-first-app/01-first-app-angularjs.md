@@ -8,6 +8,10 @@ You can find this examples on AngularJS' homepage.
 
 but AngularJS will recon jQuery if available
 
+* * *
+
+**StarterKit**: https://github.com/angular/angular-seed
+
 ---
 
 
