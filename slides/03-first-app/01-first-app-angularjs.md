@@ -4,13 +4,13 @@
 
 *Shameless note*
 
-You can find this exemples on AngularJS' homepage.
+You can find this examples on AngularJS' homepage.
 
 ---
 
 ## No dependencies
 
-- but AngularJS will recon jQuery if available
+but AngularJS will recon jQuery if available
 
 ---
 
@@ -35,16 +35,3 @@ This is the first example on the homepage.
 3. link
 
 No initialisation code - think of testability
-
----
-
-
-## Filters
-
-## Filters on collection
-
-## Directives
-
----
-
-## Complex demo : Sapphire Innovation

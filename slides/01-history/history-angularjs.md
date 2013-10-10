@@ -4,13 +4,19 @@
 
 **2009**
 
-Developed by Miško Hevery and Adam Abrons for a JSON storage service
+Developed by 
+
+Miško Hevery and Adam Abrons 
+
+for a JSON storage service
 
 ---
 
 **October 2010**
 
-First public release 0.9.0. Developed and maintained by Google ever since
+First public release 0.9.0.
+
+Developed and maintained by Google ever since
 
 <aside data-markdown class="notes">
 source: http://en.wikipedia.org/wiki/AngularJS
@@ -24,7 +30,9 @@ Abrons left the project, but Hevery, who works at Google, continues to develop a
 
 Version 1.0.0 reached
 
-[DoubleClick](http://blog.angularjs.org/2012/06/doubleclick-super-powered-by-angularjs.html) is first Google product to use AngularJS. This felt like a validation of the tool.
+[DoubleClick](http://blog.angularjs.org/2012/06/doubleclick-super-powered-by-angularjs.html) is first Google product to use AngularJS.
+
+This felt like a validation of the tool.
 
 ---
 
