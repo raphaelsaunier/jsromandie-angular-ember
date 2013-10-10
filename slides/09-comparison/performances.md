@@ -16,7 +16,7 @@ Ember.js:
 
 **230 kb** = 
 
-**64 kb** of ember.js + **74 kb** of handlebar.js + **92 kb** of jQuery 
+**64 kb** of ember.js + **74 kb** of handlebars.js + **92 kb** of jQuery 
 
 ---
 

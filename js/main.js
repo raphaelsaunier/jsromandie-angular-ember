@@ -24,7 +24,7 @@ var appendSlides = function (data) {
 
     if (slide.indexOf('angular') !== -1) {;
       bgImage = "assets/angular-background-2.jpg";
-      bgColor = "#59a6c9";
+      bgColor = "#bfd7e8";
     } else if (slide.indexOf('-ember') !== -1) {
       bgImage = "assets/ember-background.jpg";
       bgColor = "#faf4f1";
