@@ -21,7 +21,8 @@
     "03-first-app/00-first-app.md",
     "03-first-app/01-first-app-angularjs.md",
     "03-first-app/creating-a-basic-application-ember.md",
-    "03-first-app/02-controllers-angularjs.md"
+    "03-first-app/02-controllers-angularjs.md",
+    "03-first-app/controllers-ember.md"
   ],
   [
     "04-testing/testing-angularjs.md",
