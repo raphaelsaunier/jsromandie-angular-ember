@@ -2,7 +2,7 @@
 
 ---
 
-<img src="/assets/01-history/angularjs-misko-hevery.jpg" alt="" height="300"/>
+<img src="assets/01-history/angularjs-misko-hevery.jpg" alt="" height="300"/>
 
 
 **2009**
@@ -29,7 +29,7 @@ Abrons left the project, but Hevery, who works at Google, continues to develop a
 
 ---
 
-<img src="/assets/01-history/angularjs-doubleclick.png" alt="DoubleClick Home Screenshot" height="300"/>
+<img src="assets/01-history/angularjs-doubleclick.png" alt="DoubleClick Home Screenshot" height="300"/>
 
 
 **June 2012**

@@ -1,3 +1,3 @@
-<img src="/assets/06-components/chaplin.jpg" height="400"/>
+<img src="assets/06-components/chaplin.jpg" height="400"/>
 
 ## 6.components

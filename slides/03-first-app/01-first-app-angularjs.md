@@ -1,12 +1,12 @@
 *Shameless note*
 
-You can find this examples on AngularJS' homepage.
+You can find those examples on AngularJS' homepage.
 
 ---
 
 ## No dependencies
 
-but AngularJS will recon jQuery if available
+but AngularJS will recognise jQuery if available
 
 * * *
 

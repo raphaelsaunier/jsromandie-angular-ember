@@ -4,7 +4,7 @@
 
 ### Yeoman generator
 
-<img src="http://yeoman.io/assets/img/yeoman-logo.png" height="200"/>
+<img src="http://yeoman.ioassets/img/yeoman-logo.png" height="200"/>
 
 ```sh
 npm install -g generator-ember

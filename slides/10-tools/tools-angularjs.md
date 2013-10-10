@@ -4,7 +4,7 @@
 
 ### Yeoman generator
 
-<img src="http://yeoman.io/assets/img/yeoman-logo.png" height="200"/>
+<img src="http://yeoman.ioassets/img/yeoman-logo.png" height="200"/>
 
 ```sh
 npm install -g generator-angular
@@ -39,13 +39,13 @@ http://github.com/angular/angular-seed
 
 ---
 
-<img src="assets/10-tools/tool-angularjs-plugin-02-visual.png"/>
+<img src="assets/10-tools/tool-angularjs-plugin-02-scope-visual.png"/>
 
 ---
 
 2) Performances
 
-<img src="assets/10-tools/tool-angularjs-plugin-03-performances.png"/>
+<img src="assets/10-toolsassets/10-tools/tool-angularjs-plugin-03-performance.png"/>
 
 
 ---

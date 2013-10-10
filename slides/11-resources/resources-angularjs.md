@@ -14,31 +14,31 @@
 
 ---
 
-<img src="/assets/11-resources/resource-angularjs-oreilly.jpg" height="400">
+<img src="assets/11-resources/resource-angularjs-oreilly.jpg" height="400">
 
 Best resources book for the time being
 
 ---
 
-<img src="/assets/11-resources/resource-angularjs-packt-starter.jpg" height="400">
+<img src="assets/11-resources/resource-angularjs-packt-starter.jpg" height="400">
 
 66 pages for a quick introduction
 
 ---
 
-<img src="/assets/11-resources/resource-angularjs-packt.jpg" height="400">
+<img src="assets/11-resources/resource-angularjs-packt.jpg" height="400">
 
 Unread.
 
 ---
 
-<img src="/assets/11-resources/resource-angularjs-packt-directives.jpg" height="400">
+<img src="assets/11-resources/resource-angularjs-packt-directives.jpg" height="400">
 
 September 2013. Unread and much looking forward
 
 ---
 
-<img src="/assets/11-resources/resource-angularjs-egghead.svg" width="600">
+<img src="assets/11-resources/resource-angularjs-egghead.svg" width="600">
 
 ## Videos
 
