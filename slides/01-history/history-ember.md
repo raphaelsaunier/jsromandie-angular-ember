@@ -50,7 +50,7 @@ Full list: http://emberjs.com/ember-users/
 <img src="assets/01-history/bugbuster-ember.png" alt="BugBuster" />
 
 <aside data-markdown class="notes">
-Who are running 1.0.0-pre.2
+Running a slightly older version (1.0.0-pre.2)
 </aside>
 
 
