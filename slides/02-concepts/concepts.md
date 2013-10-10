@@ -28,7 +28,7 @@ good user experience on the mobile phones.
 
 ### Clients-side templates
 
-Data is often exchange using JSON an injected in client-side templates
+Data is often exchanged using JSON and injected in client-side templates
 
 ---
 

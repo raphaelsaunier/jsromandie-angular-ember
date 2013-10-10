@@ -18,7 +18,6 @@
     "02-concepts/concepts.md"
   ],
   [
-    "03-first-app/creating-a-basic-application.md",
     "03-first-app/01-first-app-angularjs.md",
     "03-first-app/creating-a-basic-application-ember.md",
     "03-first-app/02-controllers-angularjs.md"
