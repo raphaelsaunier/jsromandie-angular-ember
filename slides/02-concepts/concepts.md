@@ -90,7 +90,6 @@ Directives: semantic pages
 - Possiblity to specify unconventional behaviour
 - Active code generation
 
-
 <aside data-markdown class="notes">
 “If Ember needs an object, it can often generate it for you in memory”
 </aside>

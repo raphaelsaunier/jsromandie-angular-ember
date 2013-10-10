@@ -39,7 +39,8 @@
     "06-components/angularjs-01-filters.md",
     "06-components/angularjs-02-filters-collections.md",
     "06-components/angularjs-03-directives.md",
-    "06-components/angularjs-04-repositories.md"
+    "06-components/angularjs-04-repositories.md",
+    "06-components/components-ember.md"
   ],
   [
     "07-urls-and-architecture/modules-angularjs.md",

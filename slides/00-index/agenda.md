@@ -33,3 +33,8 @@ Discussion and questions at the end
 9. Performance
 10. Tooling
 11. Resources to get started
+
+
+<aside data-markdown class="notes">
+There's a ton of material to cover; we're going to try to spend no more than 10 minutes on each.
+</aside>
