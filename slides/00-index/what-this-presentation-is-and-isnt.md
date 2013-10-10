@@ -17,9 +17,7 @@
 
 ---
 
-- Intro for those who are not familiar with these tools
-- Constructive comparisons and practical advice
-- A bit of humour and more pictures of cats
+Constructive comparisons and practical advice
 
 ---
 

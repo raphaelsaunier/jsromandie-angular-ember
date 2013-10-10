@@ -4,13 +4,11 @@
 
 ---
 
-<!--<img src="http://netdna.kittentoob.com/wp-content/uploads/2013/05/Curious-Cat-575x431.jpg" height="500" />-->
-
-A small introduction of both frameworks
+A small introduction to both frameworks
 
 ---
 
-Some samples of their main features
+Some code samples to showcase their main features
 
 ---
 
@@ -32,6 +30,6 @@ Discussion and questions at the end
 6. Web Components
 7. URLs and Application Architecture
 8. Exchanging data
-9. Real comparison: performances
-10. Tools
+9. Performance
+10. Tooling
 11. Resources to get started
