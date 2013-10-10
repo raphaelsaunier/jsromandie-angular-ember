@@ -39,7 +39,8 @@
   ],
   [
     "07-urls-and-architecture/modules-angularjs.md",
-    "07-urls-and-architecture/urls-angularjs.md"
+    "07-urls-and-architecture/urls-angularjs.md",
+    "07-urls-and-architecture/urls-ember.md"
   ],
   [
     "08-exchanging-data/data-ember.md"
