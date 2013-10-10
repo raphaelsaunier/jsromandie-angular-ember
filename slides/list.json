@@ -18,7 +18,7 @@
     "02-concepts/concepts.md"
   ],
   [
-    "03-first-app/creating-a-basic-application.md",
+    "03-first-app/00-first-app.md",
     "03-first-app/01-first-app-angularjs.md",
     "03-first-app/creating-a-basic-application-ember.md",
     "03-first-app/02-controllers-angularjs.md"
@@ -30,8 +30,8 @@
   [
     "06-components/angularjs-01-filters.md",
     "06-components/angularjs-02-filters-collections.md",
-    "06-components/angularjs-01-directives.md",
-    "06-components/angularjs-01-repositories.md"
+    "06-components/angularjs-03-directives.md",
+    "06-components/angularjs-04-repositories.md"
   ],
   [
     "07-urls-and-architecture/modules-angularjs.md",

@@ -6,9 +6,11 @@ AngularJS was built to perfom testing
 
 ---
 
-$console, $window, $http are provided trough dependency injection
+$console, $window, $http…  
+are provided trough dependency injection
 
-you shall never use a direct instance of console, window, http
+you shall never use a direct  
+instance of console, window, http
 
 ---
 
