@@ -28,11 +28,13 @@ good user experience on the mobile phones.
 
 ### Clients-side templates
 
-Data is often exchange using JSON an injected in client-side templates
+Data is often exchange using JSON 
+
+an injected in client-side templates
 
 ---
 
-### MVC as in *Model View Controller*
+### MVC: Model View Controller
 
 Slightly different approaches for each framework
 
@@ -40,15 +42,17 @@ Slightly different approaches for each framework
 
 ### Two-way data binding
 
-Hard to do in jQuery or Backbone without an external library
+Hard to do in jQuery or Backbone
+
+without an external library
 
 ---
 
-## AngularJS only:
+## In AngularJS
 
-- Dependency Injection
-- Directives
-- Filters
+DI: Dependency Injection
+
+Directives & Filters
 
 <aside data-markdown class="notes">
 DI: Spring World in JavaScript
