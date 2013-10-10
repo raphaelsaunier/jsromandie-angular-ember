@@ -34,3 +34,24 @@ so you can focus on what makes your app special, not reinventing the wheel.”*
 - Released at the end of August 2013
 - Stable API
 - Ember Data Beta
+
+---
+
+### Who's using Ember?
+
+<img src="assets/01-history/ember-companies.png" alt="Companies using Ember" />
+
+Full list: http://emberjs.com/ember-users/
+
+---
+
+…and also:
+
+<img src="assets/01-history/bugbuster-ember.png" alt="BugBuster" />
+
+<aside data-markdown class="notes">
+Who are running 1.0.0-pre.2
+</aside>
+
+
+

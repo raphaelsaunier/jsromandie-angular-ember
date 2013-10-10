@@ -27,6 +27,8 @@ Fat especially for the memory
 - Desktop-like experience
 
 <aside data-markdown class="notes">
+c.f. Ryan's comment on meetup.com
+
 Better user experience on mobile phones slow connections.
 
 Ideal for apps that stay open all day long (e.g. ticketing software)
@@ -60,7 +62,9 @@ without an external library
 
 ## Dependency Injection
 
-Present in both frameworks; shown more prominently in AngularJS
+Used extensively by both frameworks;
+
+featured more prominently in AngularJS
 
 <aside data-markdown class="notes">
 DI: Spring World in JavaScript
@@ -70,19 +74,19 @@ DI: Spring World in JavaScript
 
 ## Directives (AngularJS)
 
-Isolated and reusable building blocks 
+Isolated and reusable building blocks
 
 <aside data-markdown class="notes">
 Directives: semantic pages
 </aside>
 
 
---- 
+---
 
 ## Convention over configuration (Ember.js)
 
-- Less trivial decisions
 - Conventions on naming, structure and responsibilities
+- Eliminate a lot trivial decisions
 - Possiblity to specify unconventional behaviour
 - Active code generation
 
