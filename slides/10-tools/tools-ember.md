@@ -7,7 +7,9 @@
 <img src="http://yeoman.io/assets/img/yeoman-logo.png" height="200"/>
 
 ```sh
-npm install generator-ember
+npm install -g generator-ember
+mkdir app
+yo ember
 ```
 
 ---
