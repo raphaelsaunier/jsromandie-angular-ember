@@ -24,6 +24,7 @@ Fat especially for the memory
 - No full page realods = more responsive UI
 - Potential to share API with mobile application
 - Uninterupted media playback
+- Desktop-like experience
 
 <aside data-markdown class="notes">
 Better user experience on mobile phones slow connections.
@@ -67,10 +68,27 @@ DI: Spring World in JavaScript
 
 ---
 
-## Directives and Web Components
+## Directives (AngularJS)
 
 Isolated and reusable building blocks 
 
 <aside data-markdown class="notes">
 Directives: semantic pages
 </aside>
+
+
+--- 
+
+## Convention over configuration (Ember.js)
+
+- Less trivial decisions
+- Conventions on naming, structure and responsibilities
+- Possiblity to specify unconventional behaviour
+- Active code generation
+
+
+<aside data-markdown class="notes">
+“If Ember needs an object, it can often generate it for you in memory”
+</aside>
+
+
