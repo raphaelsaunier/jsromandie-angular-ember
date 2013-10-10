@@ -11,11 +11,11 @@
     "00-index/what-this-presentation-is-and-isnt.md"
   ],
   [
-    "01-history/history-angularjs.md",
-    "01-history/history-ember.md"
+    "02-concepts/concepts.md"
   ],
   [
-    "02-concepts/concepts.md"
+    "01-history/history-angularjs.md",
+    "01-history/history-ember.md"
   ],
   [
     "03-first-app/00-first-app.md",
