@@ -50,7 +50,7 @@ Loops
 
 ### Helpers
 
-No concept of filters but Guillaume's `1337` filter could be rewritten like this:
+No concept of filters but Guillaume's `1337` filter (shown in the next section) could be rewritten like this:
 
 ```javascript
 Ember.Handlebars.helper('leet', function(value, options) {

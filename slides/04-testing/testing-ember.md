@@ -2,8 +2,24 @@
 
 ---
 
-Testing *used* to be slightly tricky in Ember
+Testing *used* to be slightly tricky in Ember…
 
+---
+
+…it has gotten much better!
+
+```javascript
+App.setupForTesting();
+App.injectTestHelpers();
+
+
+// Before each test
+module("Integration Tests", {
+  setup: function() {
+    App.reset();
+  }
+});
+```
 
 ---
 

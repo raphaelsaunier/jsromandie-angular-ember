@@ -5,6 +5,11 @@
 * Represent the *state* of the application (e.g. /posts/1/edit)
 * Provide the model to the controller
 
+<aside data-markdown class="notes">
+  Raph: Unlike with AngularJS, it is very hard to write an app without URLs
+  URLs weren't added as an afterthought…
+</aside>
+
 ---
 
 ### Starting point of an application

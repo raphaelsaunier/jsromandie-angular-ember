@@ -27,11 +27,13 @@ Constructive comparisons and practical advice
 
 ### 1) Radical Opinions
 
-- Both frameworks are really good
+- Both frameworks are excellent
 - We're **users** and not **contributors** to the frameworks
 
 <aside data-markdown class="notes">
-  Raph: Pas de prise de position, contrairement au débats sur les tabulations vs. les espaces
+  In terms of code quality, testing, community, documentation.
+
+  Pas de prise de position, contrairement au débats sur les tabulations vs. les espaces :)
   Les deux frameworks s'infulencent mutuellement de façon constructive. (tests, composants)
 </aside>
 
@@ -40,7 +42,7 @@ Constructive comparisons and practical advice
 ### 2) In-depth presentation
 
 - Both frameworks are relatively extensive
-- We could do entire presentations on individual components
+- We could do entire presentations on each of their individual modules
 
 <aside data-markdown class="notes">
   Raph: Dans le cas d'Ember, on pourrait donner des présentations d'une heure sur:
@@ -66,5 +68,3 @@ Constructive comparisons and practical advice
 <iframe src="//player.vimeo.com/video/68215606" width="700" height="481" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 <p style='font-size:15px;'><a href="http://vimeo.com/68215606">Tom Dale, Peter Cooper and Rob Conery; Cage Match - EmberJS vs. Angular</a> from <a href="http://vimeo.com/ndcoslo">NDC Conferences</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
-<aside data-markdown class="notes"> </aside>

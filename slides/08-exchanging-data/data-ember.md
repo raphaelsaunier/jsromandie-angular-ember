@@ -2,21 +2,20 @@
 
 ---
 
-**Basic idea:** send and receive JSON data, ideally from a REST API
+**Basic idea:** send and receive JSON data from a standardised API
+
+See: http://jsonapi.org/
 
 ---
 
 ## Ember Data
 
-Ambitious
-
-Could be the topic of an entire talk.
-
-Also, pre-beta versions of Ember Data were source of a lot of frustrations:
-
-- Frequent breaking API changes
-- Unpractical handling of embedded relationships
-- Changes to models while they're being saved
+- Ambitious project
+- Could be the topic of an entire talk.
+- Pre-beta versions of Ember Data were source of a lot of frustrations:
+  - Frequent breaking changes
+  - Unpractical handling of embedded relationships
+  - Changes to models while they're being saved
 
 ---
 
@@ -26,7 +25,11 @@ Also, pre-beta versions of Ember Data were source of a lot of frustrations:
 - Fully backed by promises
 - Documentation
 
-Transition is described here: https://github.com/emberjs/data/blob/master/TRANSITION.md
+* * *
+
+Transition guide from pre-beta:
+
+https://github.com/emberjs/data/blob/master/TRANSITION.md
 
 ---
 

@@ -21,10 +21,11 @@ Fat especially for the memory
 
 ### Why bother?
 
-- No full page realods = more responsive UI
-- Potential to share API with mobile application
-- Uninterupted media playback
-- Desktop-like experience
+- No full page reloads:
+  - More responsive UI
+  - Desktop-like experience
+  - Uninterupted media playback
+- Potential to share API with other applications
 
 <aside data-markdown class="notes">
 c.f. Ryan's comment on meetup.com
