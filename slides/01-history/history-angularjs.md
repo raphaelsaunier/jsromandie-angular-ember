@@ -2,6 +2,9 @@
 
 ---
 
+<img src="/assets/01-history/angularjs-misko-hevery.jpg" alt="" height="300"/>
+
+
 **2009**
 
 Developed by 
@@ -26,6 +29,9 @@ Abrons left the project, but Hevery, who works at Google, continues to develop a
 
 ---
 
+<img src="/assets/01-history/angularjs-doubleclick.png" alt="DoubleClick Home Screenshot" height="300"/>
+
+
 **June 2012**
 
 Version 1.0.0 reached
@@ -36,9 +42,9 @@ This felt like a validation of the tool.
 
 ---
 
-**August 2012**
+<img src="assets/01-history/angularjs-youtube-ps3.png" alt="" height="300"/>
 
-<img src="assets/01-history/angularjs-youtube-ps3.png" alt="" height="500"/>
+**August 2012**
 
 [YourTube for PS3](http://blog.angularjs.org/2012/08/your-excuse-to-buy-playstation.html) was built using AngularJS
 

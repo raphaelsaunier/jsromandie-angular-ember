@@ -17,17 +17,17 @@
 
 ---
 
-- Intro and history for those who are not familiar with these tools
+- Intro for those who are not familiar with these tools
 - Constructive comparisons and practical advice
 - A bit of humour and more pictures of cats
 
 ---
 
-## What you won't see tonight
+## What you __won't__ see tonight
 
 ---
 
-### 1) No Radical Opinions
+### 1) Radical Opinions
 
 - Both frameworks are really good
 - We're **users** and not **contributors** to the frameworks
@@ -39,9 +39,9 @@
 
 ---
 
-### 2) No in-depth presentation
+### 2) In-depth presentation
 
-- Both frameworks are fairly extensive
+- Both frameworks are relatively extensive
 - We could do entire presentations on individual components
 
 <aside data-markdown class="notes">

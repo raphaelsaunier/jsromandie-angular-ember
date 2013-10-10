@@ -22,9 +22,9 @@ var appendSlides = function (data) {
     var bgImage = '';
     var bgColor = '#ffffff';
 
-    if (slide.indexOf('-angular') !== -1) {;
-      bgImage = "assets/angular-background.jpg";
-      bgColor = "#f2f2f2";
+    if (slide.indexOf('angular') !== -1) {;
+      bgImage = "assets/angular-background-2.jpg";
+      bgColor = "#59a6c9";
     } else if (slide.indexOf('-ember') !== -1) {
       bgImage = "assets/ember-background.jpg";
       bgColor = "#faf4f1";

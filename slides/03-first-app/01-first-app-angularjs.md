@@ -1,7 +1,3 @@
-## First Application with AngularJS
-
----
-
 *Shameless note*
 
 You can find this examples on AngularJS' homepage.

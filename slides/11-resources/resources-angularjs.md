@@ -15,37 +15,38 @@
 
 ---
 
-<img src="/assets/11-resouces/resource-angularjs-oreilly.jpg" width="500">
+<img src="/assets/11-resources/resource-angularjs-oreilly.jpg" height="400">
 
 Best resources book for the time being
 
 ---
 
-<img src="/assets/11-resouces/resource-angularjs-packt-starter.jpg" width="500">
+<img src="/assets/11-resources/resource-angularjs-packt-starter.jpg" height="400">
 
 66 pages for a quick introduction
 
 ---
 
-<img src="/assets/11-resouces/resource-angularjs-packt.jpg" width="500">
+<img src="/assets/11-resources/resource-angularjs-packt.jpg" height="400">
 
 Unread.
 
 ---
 
-<img src="/assets/11-resouces/resource-angularjs-directives.jpg" width="500">
+<img src="/assets/11-resources/resource-angularjs-packt-directives.jpg" height="400">
 
 September 2013. Unread and much looking forward
 
 ---
 
+<img src="/assets/11-resources/resource-angularjs-egghead.svg" width="600">
+
 ## Videos
 
-* [egghead.io](http://egghead.io/) more than 55 short videos
+[egghead.io](http://egghead.io/) more than 55 short videos
 
 ---
 
-## Articles
+## AngularJS-Learning
 
-* Appliness [Using Yeoman with AngularJS](http://contentviewer.adobe.com/s/Appliness/6d875b2f9ca74597afd8cc51eba706a8/Appliness%208%20November/16yeoman.html)
-
+<iframe src="https://github.com/jmcunningham/AngularJS-Learning" height="900" width="960"></iframe>

@@ -71,10 +71,11 @@
      */ 
     Reveal.addEventListener( 'ready', function( event ) {
       $('.slides iframe').each(function(){
-        var iframe = $(this), src = iframe.data('src');
+        var iframe = $(this), src = iframe.data('src'), alt = iframe.data('alt');
 
-        if(src){
-          var showVid = $('<a />', {text:"Load " + src , href:src}).one('click', function(e){
+        if (src) {
+          var label = alt ? alt : "Load " + src;
+          var showVid = $('<a />', {text: label , href:src}).one('click', function(e){
             iframe.attr('src', src);
             $(this).remove();
             e.preventDefault();

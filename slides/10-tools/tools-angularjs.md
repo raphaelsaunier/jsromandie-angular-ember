@@ -23,7 +23,7 @@ protection of the names for dependency injection
 
 ### Angular-seed
 
-https://github.com/angular/angular-seed
+http://github.com/angular/angular-seed
 
 ---
 

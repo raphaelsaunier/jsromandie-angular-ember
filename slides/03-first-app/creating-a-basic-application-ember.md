@@ -45,7 +45,11 @@ The `body` element was defined as the `rootElement` of the application
 
 ---
 
-The first `<script type="text/handlebars">` tag became the application template
+The first 
+
+`<script type="text/handlebars">`
+
+tag became the application template
 
 ---
 

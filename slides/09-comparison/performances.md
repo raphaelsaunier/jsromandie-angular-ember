@@ -24,7 +24,7 @@ Ember.js:
 
 ---
 
-http://jsfiddle.net/jashkenas/CGSd5/
+http://jsfiddle.net/jashkenas/CGSd5
 
 ---
 

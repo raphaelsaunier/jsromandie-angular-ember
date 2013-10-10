@@ -18,7 +18,7 @@ Some advice to get started
 
 ---
 
-At the end discussion and questions
+Discussion and questions at the end
 
 ---
 
